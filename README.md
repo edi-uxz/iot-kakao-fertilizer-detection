@@ -42,4 +42,4 @@
 
 1. **Clone Repositori**
    ```bash
-   git clone [https://github.com/username/iot-kakao-fertility.git](https://github.com/username/iot-kakao-fertility.git)
+   git clone [https://github.com/edi-uxz/iot-kakao-fertilizer-detection]
