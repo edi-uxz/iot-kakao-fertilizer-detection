@@ -10,50 +10,35 @@
 
 ---
 
+## 📸 Tangkapan Layar (Screenshots)
+
+### 1. Halaman Landing (AGRO_CORE v2.0)
+<img src="gambar/dashboard%20(2).png" alt="Landing Page AgroIntelli" width="100%">
+
+### 2. Admin Dasbor (Pusat Kontrol)
+<img src="gambar/dashboard%20admin%20(2).png" alt="Dasbor Admin AgroIntelli" width="100%">
+
+### 3. Dasbor Pengguna (Live Telemetri & Analisis AI)
+<img src="gambar/dashboard%20pengguna.png" alt="Dasbor Pengguna AgroIntelli" width="100%">
+
 ## 🌟 Fitur Utama
 
-### 1. 🌐 Landing Page (AGRO_CORE v2.0)
-- Tampilan antarmuka futuristik berbasis *Dark Mode*.
-- Akses cepat menuju modul pendaftaran dan autentikasi pengguna.
-- Informasi edukatif mengenai alur digitalisasi lahan pertanian.
-
-### 2. 👨‍💻 Admin Dashboard & Control Panel
-- **Pusat Kontrol:** Pengawasan menyeluruh terhadap instrumen IoT, data pengguna, dan algoritma AI.
-- **Statistik Ringkas:** Total pengguna, lahan terdaftar, log telemetri IoT, dan database pemupukan.
-- **Manajemen Pengguna:** Pemantauan pendaftaran akun terbaru beserta role akses.
-
-### 3. 📊 User/Farmer Dashboard
-- **Live Telemetri IoT:** Pemantauan unsur hara makro (Nitrogen [N], Fosfor [P], dan Kalium [K]) secara *real-time*.
-- **AI Recommendation Engine:** Prediksi dan analisis otomatis kebutuhan pupuk berdasarkan rule-based scoring.
-- **Multi-Plot Management:** Pengelolaan petak/lahan perkebunan secara terpisah.
-- **Log Laporan & Analisis:** Riwayat data pemantauan yang tersimpan rapi untuk kebutuhan evaluasi berkala.
+*   **🌐 Landing Page (AGRO_CORE v2.0):** Antarmuka modern berbasis *dark mode* yang menyediakan akses cepat menuju autentikasi akun dan edukasi alur sistem.
+*   **👨‍💻 Admin Control Panel:** Pengawasan instrumen IoT, data pengguna, log telemetri, serta konfigurasi database pupuk.
+*   **📊 User / Farmer Dashboard:** Pemantauan unsur hara makro (N, P, K) secara *real-time*, prediksi AI untuk dosis pemupukan, dan manajemen petak lahan.
 
 ---
 
 ## 🛠️ Teknologi & Arsitektur
 
-### **Hardware (IoT)**
-- **Microcontroller:** ESP8266 / NodeMCU
-- **Sensor:** Soil NPK / Moisture Sensor / DHT11
-- **Protocol:** HTTP Post / Telemetry Data Stream
-
-### **Software & Stack**
-- **Backend:** PHP (Native) & MySQL
-- **Frontend:** HTML5, Tailwind CSS, Boxicons
-- **Styling UI:** Dark Glassmorphism Design
-- **Architecture:** Rule-Based Expert System / AI Scoring
+*   **Hardware (IoT):** ESP8266 / NodeMCU, Sensor NPK / Soil Moisture / DHT11
+*   **Backend & Database:** PHP Native & MySQL
+*   **Frontend UI:** HTML5, Tailwind CSS, Boxicons (Dark Glassmorphism)
+*   **Model AI:** Rule-Based Expert System / Scoring Algorithm
 
 ---
 
-## 📸 Tangkapan Layar (Screenshots)
-
-| Halaman Utama (Landing Page) | Dashboard Admin | Dashboard Pengguna |
-| :---: | :---: | :---: |
-| *AGRO_CORE v2.0 Hero Section* | *Pusat Kontrol Sistem* | *Live Telemetri & Analisis AI* |
-
----
-
-## 🚀 Instalasi & Cara Jalankan Proyek
+## 🚀 Instalasi & Penggunaan Lokal
 
 1. **Clone Repositori**
    ```bash
